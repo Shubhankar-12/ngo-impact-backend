@@ -39,7 +39,7 @@ app.use("*", (req, res) => {
   });
 });
 
-// createNgoCron();
+createNgoCron();
 // createReportCron();
 
 export { app };
